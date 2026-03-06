@@ -13,12 +13,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/Dilush14](https://github.com/Dilush14)
