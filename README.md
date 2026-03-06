@@ -16,7 +16,7 @@
 ## 📫 Connect With Me
 
 - GitHub: [https://github.com/Dilush14](https://github.com/Dilush14)
-- LinkedIn: [Add your LinkedIn link here](#)
+- LinkedIn: [https://www.linkedin.com/in/dilush14](https://www.linkedin.com/in/dilush14)
 - Email: diludilush963@gmail.com
 
 ---
